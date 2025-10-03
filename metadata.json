@@ -1,0 +1,5 @@
+{
+  "name": "AI Interior Designer",
+  "description": "An application to generate interior design variations for a room based on an uploaded image and a moodboard, using Gemini to visualize different styles.",
+  "requestFramePermissions": []
+}
